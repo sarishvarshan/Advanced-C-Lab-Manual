@@ -1,10 +1,6 @@
-```
-Name: SARISH VARSHAN V
-Reg. No: 212223230196
-```
-
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-
+### Name: SARISH VARSHAN V
+### Reg. No: 212223230196
 ### Aim: 
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
